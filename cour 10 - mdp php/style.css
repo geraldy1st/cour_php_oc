@@ -1,0 +1,60 @@
+*{
+    font-family: sans-serif;
+    font-weight: 200;
+    color: #333;
+}
+h1,h2,h3{
+    border-bottom: solid 1px #f45;
+    color: #F45;
+}
+div{
+    margin: 10px;
+}
+a{
+    color: #F45;
+}
+.courpage2 li{
+    margin: 10px auto;
+}
+.code1{
+    background: #EEE;
+    border: 1px solid #DDD;
+    padding: 2px;
+    font-family: monospace;
+}
+.note{
+    background: #EEE;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 4px;
+}
+.note1{
+    background: rgba(250,0,0,.1);
+    padding: 5px 20px;
+    margin: 5px;
+    border-radius: 4px;
+}
+.note2{
+    background: rgba(0,0,250,.1);
+    padding: 5px 20px;
+    margin: 5px;
+    border-radius: 4px;
+}
+.bold1{
+    font-weight: 500;
+}
+#bracket{
+    background: #333;
+    padding: 10px;
+    width: 100%;
+}
+.txtblue{
+    color: dodgerblue;
+}
+.txtorange{
+    color: darkorange;
+}
+.hide{
+    background: #333;
+    color: #444;
+}
