@@ -6,7 +6,6 @@ session_start();
 $_SESSION['prenom'] = 'Kazuya';
 $_SESSION['nom'] = 'Mishima';
 $_SESSION['age'] = 47;
-$_SESSION['photo'] = 50;
 ?>
 
 <!DOCTYPE html>
@@ -20,7 +19,7 @@ $_SESSION['photo'] = 50;
         Salut <?php echo $_SESSION['prenom']; ?> !<br />
         Tu es à l'accueil de mon site (index.php). Tu veux aller sur une autre page ?
     </p>
-    <img src="http://www.tekken-official.jp/tk7frac/images/character/btn/btn_kazuya_on.png" alt="">
+    
     <p>
         <a href="mapage.php">Lien vers mapage.php</a><br />
         <a href="monscript.php">Lien vers monscript.php</a><br />

@@ -10,8 +10,8 @@ session_start(); // On démarre la session AVANT toute chose
     </head>
     <body>
     <p>Re-bonjour !</p>
-    <p><?php  ?>
-        Je me souviens de toi ! Tu t'appelles <?php echo $_SESSION['prenom'] . ' ' . $_SESSION['nom']; ?> !<br />
+<!--    <img src="http://www.tekken-official.jp/tk7frac/images/character/btn/btn_kazuya_on.png" alt="profile">-->
+    <p>Je me souviens de toi ! Tu t'appelles <?php echo $_SESSION['prenom'] . ' ' . $_SESSION['nom']; ?> !<br />
         Et ton âge hummm... Tu as <?php echo $_SESSION['age']; ?> ans, c'est ça ? :-D
     </p>
     </body>
