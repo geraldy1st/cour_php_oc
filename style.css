@@ -15,7 +15,10 @@ div{
     margin: 10px auto;
     width: 100%;
 }
-wrapper li{
+.wrapper .img1{
+width: 50%;
+}
+.wrapper li{
     margin: 10px 0;
     background: red;
 }

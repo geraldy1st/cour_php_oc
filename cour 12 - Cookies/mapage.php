@@ -23,7 +23,8 @@ $_SESSION['age'] = 47;
     <p>
         <a href="mapage.php">Lien vers mapage.php</a><br />
         <a href="monscript.php">Lien vers monscript.php</a><br />
-        <a href="informations.php">Lien vers informations.php</a>
+        <a href="informations.php">Lien vers informations.php</a><br>
+        <a href="info.php">Lien vers info.php</a>
     </p>
     </body>
 </html>
