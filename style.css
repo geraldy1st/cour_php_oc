@@ -15,6 +15,16 @@ div{
     margin: 10px auto;
     width: 100%;
 }
+.main-intro{
+    width: 100%;
+    background: pink;
+}
+.intro1{
+    text-align: center;
+    padding: 0;
+    margin: 0 auto;
+    color: aliceblue;
+}
 .wrapper .img1{
 width: 50%;
 }
@@ -92,4 +102,26 @@ a{
     text-align: center;
     margin: 0 auto;
     padding: 10px;
+}
+/*-----------MySQL---------------*/
+
+.content-mysql{
+    width:100%;
+    background:pink;
+    padding:0;
+}
+.content-mysql h1{
+    color:#fff;
+    text-align:center;
+    margin: 0 auto;
+    font-size:3em;
+    font-weight: bold;
+    text-transform:uppercase;
+}
+.content-mysql h2{
+    width:100%;
+    text-align: center;
+    padding: 0;
+    margin: 0 auto;
+    color: aliceblue;
 }
