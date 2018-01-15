@@ -23,6 +23,7 @@
            <li>Mais que contient une table ? C'est là que sont enregistrées les données, sous la forme d'un tableau. Dans ce tableau, les colonnes sont appelées <span>des champs</span>, et les lignes sont appelées <span>des entrées.</span></li>
        </ul>
    </div>
+   <a href="jeux_video.php">lien vers jeux videos</a>
    
     
 </body>
